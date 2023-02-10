@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.olochallenge.app-mergeDebugResources-21:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/giovannycerna/.gradle/caches/transforms-3/11c61d05656eda14dd94c408d8a1cba8/transformed/appcompat-1.4.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/giovannycerna/.gradle/caches/transforms-3/47a06f2388c5605f2c7848ab96d1f5f8/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
